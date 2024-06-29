@@ -1,4 +1,4 @@
-# ShareMe Social Media Application
+# Sharewith Social Media Application
 ![ShareMe](https://i.ibb.co/8cLfj3X/image.png)
 
 ### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
